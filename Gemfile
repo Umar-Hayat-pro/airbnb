@@ -28,3 +28,5 @@ group :development do
   # gem "rack-mini-profiler"
   # gem "spring"
 end
+
+gem "tailwindcss-rails", "~> 3.0"
